@@ -1,3 +1,5 @@
 Dissertation project code for the Master's Degree in Electronics and Telecomunications Engineering 2022.
 
+The MAX30100_I2C_CONTROL folder contains the project code for use with a MAX30100 Oximeter. The Board_Addon_Schematic file is a Fusion 360 archive containing the blueprint for the PCB that links to the microcontroller.
+
 Meant to be uploaded to a STM32 Nucleo Board, in particular the Nucleo F446RE board.
